@@ -1,2 +1,2 @@
 python -m pip install pyinstaller
-pyinstaller pbrain-Gomoku francois.caicedo@epitech.eu.py
+python compile.py
