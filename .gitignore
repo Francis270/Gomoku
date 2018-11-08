@@ -3,3 +3,6 @@
 *.spec
 __pycache__
 *.exe
+.save.py
+test.py
+/piskvork/
