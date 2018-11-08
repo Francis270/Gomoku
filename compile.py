@@ -2,7 +2,7 @@ import os
 
 PATH = "C:\\Users\\Francis\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts"
 SRCS = "srcs\\"
-NAME = "pbrain-bordeaux-francois.caicedo.exe"
+NAME = "pbrain-bordeaux-gomoku_francois_pilo.exe"
 PY_FILE = SRCS + "bot.py " + SRCS + "pisqpipe.py --name " + NAME + " --onefile"
 
 print(PY_FILE)
